@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Munara!
+- 👀 I’m interested in Computer Science and Programming.
+- 🌱 I’m currently learning Python Django Framework and Java.
+- 💞️ I’m looking to collaborate on Python telegram bot's creation.
+- 📫 How to reach me: telegram nickname - @moonarraa
+- ⚡ Fun fact: I love hedgehogs :))
