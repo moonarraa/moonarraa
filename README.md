@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munara</h1>
 <h3 align="center">A passionate programming learner from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [a ShopSmart App](https://github.com/moonarraa/nfactorial-task)
+- 🔭 I’m currently working on [a MyBarter app](https://github.com/moonarraa/MyBarter)
 
 - 📫 How to reach me **munaratuss@yahoo.com**
 
