@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Munara</h1>
 <h3 align="center">A passionate programming learner from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [a Zapis AI assistant](https://github.com/moonarraa/zapis-ai-assistant)
+- 🔭 I’m currently working on [Survey AI](https://github.com/moonarraa/survey-chat-ai)
 
 - 📫 How to reach me **munaratuss@yahoo.com**
 
